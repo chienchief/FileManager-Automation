@@ -62,7 +62,6 @@ python file_manager.py
 
 Learning project – continuously improving.
 
-
 ## Demo
 
 ### 1. File Preview
@@ -73,4 +72,5 @@ Learning project – continuously improving.
 
 ### 3. Organized Result
 ![Organized Result](docs/result.png)
+
 
