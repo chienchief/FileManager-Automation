@@ -61,3 +61,16 @@ python file_manager.py
 ## Project Status
 
 Learning project – continuously improving.
+
+
+## Demo
+
+### 1. File Preview
+![File Preview](docs/preview.png)
+
+### 2. File Organization
+![File Organization](docs/organizing.png)
+
+### 3. Organized Result
+![Organized Result](docs/result.png)
+
