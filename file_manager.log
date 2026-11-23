@@ -1,7 +1,0 @@
-2026-11-23 09:55:30,056 - INFO - Starting organization: E:\Testfile
-2026-11-23 09:55:33,633 - INFO - Moved: photo.jpg -> Images
-2026-11-23 09:57:45,419 - INFO - Starting organization: E:\Bài học
-2026-11-23 09:57:57,119 - INFO - Starting organization: E:\Testfile
-2026-11-23 09:57:59,146 - WARNING - Dupocate file skipped: report.pdf
-2026-11-23 09:57:59,148 - INFO - Moved: video.mp4 -> Videos
-2026-11-23 09:57:59,149 - INFO - Organization completed
